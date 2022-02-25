@@ -1,4 +1,7 @@
 # SwiftHttpRequest(Swift5)
+
+### 1.加我微信：lixiaowu1129
+
 ![](https://img.shields.io/badge/Swift-4.2-green.svg?style=flat)
 ![](https://img.shields.io/badge/Swift-5.0-green.svg?style=flat)
 
